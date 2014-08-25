@@ -1,0 +1,20 @@
+USEFUL FUNCTIONS:
+
+1. Math library:  
+  Math,sqrt(3);
+  
+2. var x = 2.33333;
+  x.toFixed(2); // 2.33
+  
+3. scope replacement:
+  function showScope() { scope = "local"; return scope;} //no var before scope
+  scope = "global";
+  print(scope); // displays "global" 
+  print(showScope()); // displays "local" 
+  print(scope); // displays "local"
+  
+4. oop BASIC:
+  
+  
+5. prototype:
+  
