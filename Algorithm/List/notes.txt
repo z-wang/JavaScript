@@ -1,0 +1,15 @@
+List:
+1. list read a file and append:
+  function createArr(file) {
+    var arr = read(file).split("\n");
+  for (var i = 0; i < arr.length; ++i) {
+          arr[i] = arr[i].trim();
+       }
+  return arr; }
+  
+  var movieList = new List();
+    for (var i = 0; i < movies.length; ++i) {
+       movieList.append(movies[i]);
+    }
+  
+2. 
