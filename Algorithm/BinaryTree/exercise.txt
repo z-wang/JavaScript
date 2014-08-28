@@ -1,0 +1,5 @@
+1. Add a function to the BST class that counts the number of nodes in a BST.
+2. Add a function to the BST class that counts the number of edges in a BST.
+3. Add a max() function to the BST class that finds the maximum value in a BST.
+4. Add a min() function to the BST class that finds the minimum value in a BST.
+5. Write a program that stores the words from a large text file in a BST and displays the number of times each word occurs in the text.
