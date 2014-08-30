@@ -18,3 +18,6 @@ USEFUL FUNCTIONS:
   
 5. prototype:
   
+6. parseInt(x), x is string and parse to int
+
+7.
