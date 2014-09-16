@@ -9,4 +9,4 @@ https://github.com/oreillymedia/data_structures_and_algorithms_using_javascript
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
-
+http://www.norvig.com/
