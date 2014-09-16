@@ -1,0 +1,4 @@
+1. Run the three algorithms discussed in this chapter with string data rather than numeric data and compare the running times for the different algorithms. Are the results consistent with the results of using numeric data?
+2. Create an array of 1,000 integers already sorted into numeric order. Write a program that runs each sorting algorithm with this array, timing each algorithm and com‐ paring the times. How do these times compare to the times for sorting an array in random order?
+3. Create an array of 1,000 integers sorted in reverse numerical order. Write a program that runs each sorting algorithm with this array, timing each algorithm, and com‐ pare the times.
+4. Create an array of over 10,000 randomly generated integers and sort the array using both Quicksort and the JavaScript built-in sorting function, timing each function. Is there a time difference between the two functions?
