@@ -1,6 +1,6 @@
 JavaScript
 ==========
-Learning Curve: JavaScript -> Data Stuctures and Algorithm with JavaScript -> Sharp JQuery -> Angular JS -> Node JS
+Learning Curve: JavaScript, callbackJS(continue) -> Data Stuctures and Algorithm with JavaScript(completed) -> Sharp JQuery -> Angular JS -> Node JS -> D3
 
 ----------
 Reference: 
